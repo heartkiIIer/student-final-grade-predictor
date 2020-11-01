@@ -1,0 +1,78 @@
+"sex","age","studytime","failures","schoolsup","famsup","paid","activities","higher","internet","romantic","famrel","freetime","goout","Dalc","Walc","health","absences","G1","G2","G3"
+"Female",15,2,3,"yes","no","yes","no","yes","yes","no","Good","Moderate","Ocassionally","Low","Moderate","Moderate",10,7,8,10
+"Male",16,2,0,"no","yes","yes","yes","yes","yes","no","Excellent","A Lot","Ocassionally","None to Very Low","Low","Excellent",10,15,15,15
+"Male",15,2,0,"no","yes","yes","no","yes","yes","no","Good","Little","Ocassionally","None to Very Low","None to Very Low","Very Bad",0,16,18,19
+"Male",15,2,0,"no","yes","yes","no","yes","yes","no","Excellent","A Lot","Often","None to Very Low","Low","Moderate",2,10,10,11
+"Male",15,1,0,"no","yes","yes","no","yes","yes","no","Good","Little","Ocassionally","None to Very Low","Low","Excellent",2,12,12,11
+"Male",15,3,0,"no","yes","no","yes","yes","yes","no","Excellent","A Lot","Often","None to Very Low","None to Very Low","Good",2,15,16,18
+"Female",16,2,1,"no","yes","no","yes","yes","yes","yes","Moderate","Moderate","Often","None to Very Low","Low","Moderate",25,7,10,11
+"Male",15,1,0,"no","yes","no","no","yes","yes","yes","Excellent","A Lot","Often","Low","High","Excellent",8,12,12,12
+"Female",15,2,0,"yes","yes","yes","yes","yes","yes","yes","Excellent","Little","Ocassionally","None to Very Low","None to Very Low","Excellent",8,8,8,6
+"Male",15,2,0,"no","yes","yes","no","yes","no","no","Good","Moderate","Often","Low","Low","Excellent",2,15,15,14
+"Female",16,2,0,"no","yes","yes","no","yes","yes","no","Good","Moderate","Often","Low","Moderate","Good",2,12,13,13
+"Male",15,1,1,"no","no","no","no","yes","no","no","Excellent","Exponential","Very Frequently","Moderate","High","Excellent",6,11,11,10
+"Female",15,1,0,"yes","yes","yes","no","yes","yes","no","Moderate","Moderate","Frequently","Low","Moderate","Excellent",0,8,10,11
+"Female",16,2,0,"no","no","yes","yes","yes","yes","yes","Excellent","Moderate","Frequently","None to Very Low","None to Very Low","Bad",8,8,9,10
+"Male",15,4,0,"no","yes","no","yes","yes","yes","yes","Very Bad","Moderate","Often","Very High","Very High","Moderate",4,13,13,12
+"Male",16,1,0,"no","no","no","yes","yes","no","no","Excellent","Moderate","Ocassionally","Low","Low","Excellent",2,12,12,14
+"Male",15,2,0,"no","yes","yes","yes","yes","yes","no","Good","Moderate","Often","Low","Moderate","Excellent",6,9,9,10
+"Female",16,4,0,"no","no","yes","no","yes","yes","yes","Excellent","Little","Often","None to Very Low","Moderate","Moderate",0,11,11,11
+"Male",15,2,0,"no","no","yes","yes","yes","yes","no","Excellent","Moderate","Often","None to Very Low","Moderate","Good",4,15,15,15
+"Female",16,2,0,"no","yes","no","no","yes","no","no","Good","Moderate","Frequently","None to Very Low","Low","Bad",4,8,7,6
+"Male",15,4,0,"no","yes","no","yes","yes","yes","no","Good","Moderate","Frequently","None to Very Low","None to Very Low","Good",6,11,13,14
+"Female",16,2,0,"no","yes","yes","no","yes","no","yes","Good","Moderate","Very Frequently","None to Very Low","None to Very Low","Excellent",2,8,9,10
+"Female",16,3,0,"yes","yes","yes","no","yes","yes","no","Excellent","Moderate","Very Frequently","None to Very Low","None to Very Low","Moderate",0,7,9,8
+"Male",15,4,0,"no","yes","yes","yes","yes","yes","yes","Very Bad","Moderate","Very Frequently","Moderate","Very High","Very Bad",6,10,13,13
+"Female",16,3,0,"no","yes","yes","yes","yes","yes","yes","Excellent","A Lot","Very Frequently","None to Very Low","None to Very Low","Good",4,14,15,16
+"Female",16,3,1,"yes","yes","no","yes","yes","yes","no","Good","None","Ocassionally","None to Very Low","None to Very Low","Bad",0,7,10,10
+"Female",16,2,1,"yes","no","no","yes","yes","yes","no","Moderate","None","Ocassionally","None to Very Low","None to Very Low","Excellent",6,10,13,13
+"Male",16,2,0,"no","yes","no","yes","yes","yes","no","Excellent","A Lot","Frequently","None to Very Low","Low","Excellent",2,15,15,16
+"Male",15,4,0,"no","yes","yes","yes","yes","yes","no","Excellent","Exponential","Frequently","None to Very Low","Low","Excellent",6,16,14,15
+"Female",17,1,0,"no","yes","no","no","yes","yes","yes","Moderate","A Lot","Frequently","None to Very Low","Moderate","Excellent",12,10,13,12
+"Male",15,2,0,"no","yes","no","no","yes","no","yes","Excellent","Moderate","Often","None to Very Low","None to Very Low","Excellent",0,9,0,0
+"Female",16,1,2,"no","yes","no","yes","yes","yes","yes","Good","Moderate","Ocassionally","None to Very Low","None to Very Low","Excellent",0,4,0,0
+"Female",15,1,0,"no","no","no","yes","yes","yes","no","Good","Moderate","Ocassionally","None to Very Low","None to Very Low","Excellent",0,16,16,15
+"Female",17,1,0,"yes","yes","no","no","yes","no","yes","Good","Little","Never","None to Very Low","None to Very Low","Good",0,11,11,12
+"Male",15,2,0,"yes","no","yes","yes","yes","no","no","Good","A Lot","Frequently","None to Very Low","None to Very Low","Very Bad",2,11,8,8
+"Male",17,1,0,"no","no","no","no","yes","no","no","Bad","Little","Ocassionally","Moderate","Moderate","Excellent",8,16,12,13
+"Male",16,1,0,"no","no","no","no","yes","no","no","Good","Little","Ocassionally","None to Very Low","Low","Moderate",2,17,15,15
+"Male",16,1,2,"no","yes","no","yes","yes","yes","no","Moderate","A Lot","Very Frequently","Low","High","Bad",0,6,5,0
+"Female",16,2,0,"no","no","yes","yes","yes","yes","no","Moderate","A Lot","Frequently","None to Very Low","High","Excellent",2,13,13,11
+"Male",17,2,0,"no","no","no","yes","yes","yes","no","Good","Moderate","Frequently","None to Very Low","High","Good",4,6,5,6
+"Male",16,1,0,"no","yes","no","yes","yes","yes","yes","Good","Moderate","Often","Moderate","High","Moderate",10,10,8,9
+"Female",17,2,0,"no","yes","no","yes","yes","no","no","Excellent","A Lot","Ocassionally","Low","Moderate","Excellent",0,16,17,17
+"Female",17,2,0,"no","yes","no","yes","yes","yes","yes","Excellent","Moderate","Often","Low","Moderate","Very Bad",56,9,9,8
+"Female",16,2,3,"no","yes","yes","no","yes","yes","no","Bad","Moderate","Often","Low","Low","Good",5,7,7,7
+"Male",17,2,0,"no","yes","yes","no","yes","yes","yes","Excellent","Moderate","Very Frequently","High","Very High","Moderate",13,12,12,13
+"Female",16,3,0,"no","yes","no","yes","yes","yes","no","Excellent","Moderate","Ocassionally","None to Very Low","None to Very Low","Excellent",0,13,13,14
+"Female",16,1,0,"no","no","no","no","yes","yes","yes","Good","Exponential","Ocassionally","None to Very Low","None to Very Low","Excellent",20,13,12,12
+"Female",17,2,0,"no","no","no","yes","yes","no","no","Bad","None","Never","None to Very Low","None to Very Low","Moderate",2,13,11,11
+"Male",18,2,1,"no","no","no","no","no","yes","no","Excellent","Exponential","Frequently","Moderate","Very High","Bad",0,7,7,0
+"Male",17,1,0,"no","no","no","no","yes","yes","no","Good","A Lot","Ocassionally","Low","High","Excellent",0,8,12,12
+"Female",17,3,0,"no","no","no","yes","yes","no","no","Moderate","Little","Often","None to Very Low","None to Very Low","Good",4,10,9,9
+"Female",18,3,0,"no","yes","yes","yes","yes","yes","yes","Good","Moderate","Often","None to Very Low","None to Very Low","Moderate",0,9,10,0
+"Male",17,2,0,"no","no","yes","yes","yes","yes","yes","Excellent","A Lot","Frequently","Moderate","High","Excellent",2,9,9,10
+"Female",19,2,2,"no","yes","yes","yes","yes","yes","no","Good","Moderate","Very Frequently","Moderate","Moderate","Excellent",15,9,9,9
+"Female",17,4,0,"no","yes","yes","no","yes","no","no","Moderate","None","Ocassionally","None to Very Low","None to Very Low","Moderate",6,18,18,18
+"Male",17,1,0,"no","yes","yes","no","yes","yes","no","Good","A Lot","Often","None to Very Low","Moderate","Excellent",4,14,12,11
+"Female",17,3,0,"no","yes","yes","no","yes","yes","no","Good","Moderate","Often","None to Very Low","None to Very Low","Moderate",0,15,12,14
+"Female",17,2,0,"no","yes","yes","no","yes","yes","yes","Excellent","Little","Ocassionally","None to Very Low","Low","Excellent",23,13,13,13
+"Female",17,3,0,"no","yes","no","no","yes","yes","no","Moderate","A Lot","Often","Low","Moderate","Excellent",1,12,14,15
+"Male",17,1,0,"no","yes","no","no","yes","yes","no","Good","A Lot","Very Frequently","Very High","Very High","Good",8,11,10,10
+"Female",17,3,0,"no","yes","yes","yes","yes","yes","no","Excellent","A Lot","Frequently","None to Very Low","Moderate","Good",7,10,9,9
+"Female",18,2,0,"no","no","no","yes","yes","yes","yes","Good","Moderate","Often","None to Very Low","None to Very Low","Bad",0,8,8,0
+"Male",18,3,0,"no","no","no","no","yes","yes","yes","Excellent","Moderate","Ocassionally","None to Very Low","Low","Good",9,16,15,16
+"Male",19,2,3,"no","no","no","no","yes","yes","no","Excellent","A Lot","Frequently","Moderate","Moderate","Bad",8,8,7,8
+"Male",19,1,1,"no","yes","no","no","yes","yes","no","Good","A Lot","Frequently","Moderate","Moderate","Excellent",4,8,8,8
+"Female",18,2,0,"no","yes","no","no","yes","no","yes","Excellent","Moderate","Frequently","None to Very Low","None to Very Low","Excellent",0,10,9,9
+"Female",17,1,1,"no","yes","yes","no","yes","yes","yes","Excellent","Little","Never","None to Very Low","Low","Very Bad",0,7,6,0
+"Female",18,1,0,"no","yes","yes","no","yes","yes","yes","Excellent","Little","Often","None to Very Low","Low","Good",0,11,10,10
+"Female",17,3,0,"no","no","no","yes","yes","no","yes","Moderate","A Lot","Often","None to Very Low","None to Very Low","Moderate",8,13,11,11
+"Female",17,1,0,"no","no","no","yes","yes","yes","no","Moderate","Exponential","Very Frequently","None to Very Low","Moderate","Very Bad",14,6,5,5
+"Female",18,2,0,"no","no","yes","yes","yes","yes","no","Excellent","A Lot","Often","Moderate","High","Bad",4,8,9,10
+"Female",18,2,0,"no","no","yes","no","yes","yes","yes","Good","None","Often","None to Very Low","Low","Very Bad",0,15,15,15
+"Female",17,2,0,"no","yes","yes","yes","yes","yes","no","Good","Exponential","Frequently","Low","Moderate","Very Bad",17,10,10,10
+"Female",18,2,0,"no","yes","yes","no","yes","yes","no","Good","Moderate","Frequently","None to Very Low","None to Very Low","Very Bad",0,7,9,8
+"Female",18,2,1,"no","no","no","yes","yes","no","no","Very Bad","None","Never","None to Very Low","None to Very Low","Excellent",0,6,5,0
+"Male",20,2,2,"no","yes","yes","no","yes","no","no","Excellent","Exponential","Frequently","High","Very High","Good",11,9,9,9
+"Male",21,1,3,"no","no","no","no","yes","no","no","Excellent","Exponential","Often","Moderate","Moderate","Moderate",3,10,8,7

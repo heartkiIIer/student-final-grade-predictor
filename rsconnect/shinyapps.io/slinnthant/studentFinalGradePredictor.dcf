@@ -1,0 +1,12 @@
+name: studentFinalGradePredictor
+title: studentFinalGradePredictor
+username:
+account: slinnthant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3139685
+bundleId: 3807569
+url: https://slinnthant.shinyapps.io/studentFinalGradePredictor/
+when: 1604254505.15811
+asMultiple: FALSE
+asStatic: FALSE
